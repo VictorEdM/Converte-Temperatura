@@ -2,7 +2,7 @@
 
 <p>Objetivo</p>
  <ul>
-  <li>Converter uma temperatura X em uma temperatura Y.</li>
+  <li>Converter uma temperatura X em uma temperatura Y (Celsius, Kelvin e Fahrenheit).</li>
  </ul>
 
 <p>Ferramentas</p>
